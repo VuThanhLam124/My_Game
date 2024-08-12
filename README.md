@@ -1,1 +1,1 @@
-AE chạy file python game.py là chơi được nhé!
+AE chạy file python main.py là chơi được nhé!
